@@ -16,7 +16,7 @@
 <main>
     <title>MUNSoc PESU-ECC | ABOUT</title>
     <body class = "bg-body-slate prose prose-invert">
-        <h1 class="p-10 text-center">About Us</h1>
+        <h1 class="text-white p-10 text-center">About Us</h1>
         <h4 class = "md:pr-32 md:pl-32 pr-10 pl-10 font-normal">
           MUNSoc PESU-ECC was established in 2019, by Ashwathi Jayakumar and Akshaya Visvanathan, who had noticed the lack of any kinds of debating or diplomatic clubs on campus. Since then, we have established ourselves as one of the most happening and reputed club on the campus.
         </h4>
@@ -80,7 +80,7 @@
 <style>
   :root{
     --munsoc-gold: #C0A960;
-    --body-slate: #232C3A;
+    --black: #010101;
     font-family: 'Lato', sans-serif;
   }
   body{
@@ -90,7 +90,7 @@
     max-width: none;
   }
   .prose h2, h1{
-    color: var(--munsoc-gold);
+    color: var(--black);
     text-decoration: none;
     
   }
@@ -108,7 +108,7 @@
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); 
   transition: 0.5s;
   margin-bottom: 30px;
-  background-color: #202c40;
+  background-color: #010101;
   border: 5px solid var(--munsoc-gold);
 }
 
